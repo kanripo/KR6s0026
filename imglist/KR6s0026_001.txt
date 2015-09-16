@@ -1,0 +1,3 @@
+001-1183b00	T 001-1183b	buddhist/T-taisho/T85/11/T85-1183.png
+001-1183c00	T 001-1183c	buddhist/T-taisho/T85/11/T85-1183.png
+001-1184a00	T 001-1184a	buddhist/T-taisho/T85/11/T85-1184.png
